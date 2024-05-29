@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"codigo.ProyectoAlgoritmos","l":"CircularList"},{"p":"codigo","l":"Codigo"},{"p":"codigo.ProyectoAlgoritmos","l":"LeerFile"},{"p":"codigo.ProyectoAlgoritmos","l":"Main"},{"p":"codigo.ProyectoAlgoritmos","l":"Nodo"}];updateSearchResults();
